@@ -1,4 +1,4 @@
-@import 'https://fonts.googleapis.com/css?family=Nova+Mono|Eczar';
+@import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:ital@1&display=swap');
 #body {
   background-color: black;
   color: white;
@@ -10,10 +10,10 @@
 }
 
 #time {
-  font-family: 'Nova Mono', monospace;
+  font-family: 'Chakra Petch', sans-serif;
   font-size: 18vw;
   text-align: center;
-  text-shadow: 0px 0px 20px;
+  text-shadow: 0px 0px 20px green;
 }
 
 #date {
