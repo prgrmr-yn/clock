@@ -1,9 +1,9 @@
 window.setInterval(func, 1000);
 
 function func() {
-  let d = new Date();
-  let time = d.toLocaleTimeString()
-  time = time.includes('M')? time.replace(/AM/,''): time
+  let d = new Date().toString();
+  let time = d.slice(16,24);
+  console.log(time);
   document.getElementById("time").innerHTML = time;
-  document.getElementById("date").innerHTML = d.toLocaleDateString();
+  document.getElementById("date").innerHTML = 'Little progress everyday';
 }
