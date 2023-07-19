@@ -1,6 +1,6 @@
 # Clock
 
-Clock is a simple web application that displays the current time in `hh:mm:ss` format and the current date. This project is built using HTML, CSS, and JavaScript.
+Clock is a simple web application that displays the current time in `hh:mm:ss` format and the current date. This project is built using HTML, CSS, BootStrap, and JavaScript.
 
 You can access the Clock website [here](https://clock-lwod.onrender.com).
 
